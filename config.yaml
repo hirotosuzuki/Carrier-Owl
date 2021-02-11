@@ -4,18 +4,26 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         tennis: 3
+        soccer: 1
+        basketball: 1
+        baseball: 1
+        volleyball: 1
+        golf: 1
         sports: 1
         swing: 1
         player: 1
         racket: 1
-        shot: 1
         pose: 1
+        graph: 1
+        video: 1
         object detection: 1
         tracking: 1
         action recognistion: 1
         action detection: 1
         event detection: 1
+        3d: 1
+        depth: 1
 
 
 # 通知の閾値
-score_threshold: 2
+score_threshold: 3
