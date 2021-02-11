@@ -3,9 +3,19 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        tennis: 3
+        sports: 1
+        swing: 1
+        player: 1
+        racket: 1
+        shot: 1
+        pose: 1
+        object detection: 1
+        tracking: 1
+        action recognistion: 1
+        action detection: 1
+        event detection: 1
+
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 2
